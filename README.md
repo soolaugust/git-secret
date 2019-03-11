@@ -10,11 +10,39 @@
 |[S](#S)|[T](#T)|[U](#U)|[V](#V)|[W](#W)|[X](#X)|
 |[Y](#Y)|[Z](#Z)|||||
 
+## <a name="A"></a>A
+
+## <a name="B"></a>B
+
+## <a name="C"></a>C
+
+## <a name="D"></a>D
+
+## <a name="E"></a>E
+
+## <a name="F"></a>F
+
+## <a name="G"></a>G
+
+## <a name="H"></a>H
+
+## <a name="I"></a>I
+
+## <a name="J"></a>J
+
+## <a name="K"></a>K
+
 ## <a name="L"></a>L
 
 |   名称  |   含义  |
 |:---:|:---|
 | LGTM | "look good to me": 意思是已经通过我的review了 |
+
+## <a name="M"></a>M
+
+## <a name="N"></a>N
+
+## <a name="O"></a>O
 
 ## <a name="P"></a>P
 
@@ -22,6 +50,12 @@
 |:---:|:---|
 | PR | "pull request": 请求原项目拉取自己的请求，通常用于提交自己的改动到原项目 |
 | PTAL | "please take a look": 请求别人帮忙查看 |
+
+## <a name="Q"></a>Q
+
+## <a name="R"></a>R
+
+## <a name="S"></a>S
 
 ## <a name="T"></a>T
 
@@ -35,8 +69,16 @@
 |:---:|:---|
 | umbrella (issue) | 雨伞问题: 通常是一些问题的集合，用来确认一个大的功能是否完成。 |
 
+## <a name="V"></a>V
+
 ## <a name="W"></a>W
 
 |   名称  |   含义  |
 |:---:|:---|
 | WIP | "work in process": 指自己的改动还未完成，用于提醒维护者暂时不要将改动合进分支 |
+
+## <a name="X"></a>X
+
+## <a name="Y"></a>Y
+
+## <a name="Z"></a>Z

@@ -48,6 +48,7 @@
 |:---:|:---|
 | PR | "pull request": 请求原项目拉取自己的请求，通常用于提交自己的改动到原项目 |
 | PTAL | "please take a look": 请求别人帮忙查看 |
+| pleg | Pod Lifecycle Event Generator， 在Kubernetes相关项目中会看到，是kubelet的核心模块，负责记录Pod生命周期中的各种事件 |
 
 ## <a name="Q"></a>Q
 

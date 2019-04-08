@@ -60,6 +60,7 @@
 
 |   名称  |   含义  |
 |:---:|:---|
+| TBD | "to be detemined / to be deleted": 视具体情境，可以表示为“等待确定”或者“即将删除”的状态 |
 | TL;DR | "too long, don't read": 一般指对于文档的简述 |
 
 ## <a name="U"></a>U

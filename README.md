@@ -10,6 +10,10 @@
 
 ## <a name="A"></a>A
 
+|   名称  |   含义  |
+|:---:|:---|
+| AFAIK | "as far as i know": 在我看来，介绍自己的意见或观点 |
+
 ## <a name="B"></a>B
 
 ## <a name="C"></a>C

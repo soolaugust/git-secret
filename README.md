@@ -12,6 +12,7 @@
 
 |   名称  |   含义  |
 |:---:|:---|
+| ACK  | "acknowledgement": 接受更改，对贡献者表示感谢 |
 | AFAIK | "as far as i know": 在我看来，介绍自己的意见或观点 |
 
 ## <a name="B"></a>B
@@ -58,13 +59,22 @@
 
 ## <a name="R"></a>R
 
+|   名称  |   含义  |
+|:---:|:---|
+| RFC | "request for comments": 请求他人进行共同讨论 |
+
 ## <a name="S"></a>S
+
+|   名称  |   含义  |
+|:---:|:---|
+| SGTM | "sounds good to me": 和LGTM意思相同，表示已经通过我的review了 |
 
 ## <a name="T"></a>T
 
 |   名称  |   含义  |
 |:---:|:---|
-| TBD | "to be detemined / to be deleted": 视具体情境，可以表示为“等待确定”或者“即将删除”的状态 |
+| TBD | "to be detemined / deleted / defined / discussed": 视具体情境，可以表示为“等待确定”, “即将删除”, “等待定义” 或者 “需要讨论” |
+| TBR | "to be reviewed": 提示维护者进行review |
 | TL;DR | "too long, don't read": 一般指对于文档的简述 |
 
 ## <a name="U"></a>U

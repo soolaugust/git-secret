@@ -43,6 +43,10 @@
 
 ## <a name="M"></a>M
 
+|   名称  |   含义  |
+|:---:|:---|
+| My 2 cents <br/> My two cents | 用于表达自己意见的开头，比较谦逊和礼貌。 |
+
 ## <a name="N"></a>N
 
 ## <a name="O"></a>O
